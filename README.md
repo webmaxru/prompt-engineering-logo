@@ -1,11 +1,15 @@
 # Prompt Engineering Logo
 
+<p align="center">
+    <img src="assets/prompt-engineering-logo.png" width="420">
+</p>
+
 *Prompt Engineering is the technique of formulating instructions (“prompts”) for a generative AI, in order to have it produce the expected output. ([Wiktionary](https://en.m.wiktionary.org/wiki/prompt_engineering))*
 
 This is an emerging field, and there are more and more resources available such as courses, presentations, and articles. Now is the perfect time to start learning and utilizing it in your projects. Additionally, now is an excellent time to have a logo for it! I created the logo based on my vision and dedicated it to the public domain, so **anyone can legally use it without permission**.
 
 <p align="center">
-    <img src="promo/poster.png" width="300">
+    <img src="promo/poster.png" width="420">
 </p>
 
 ### Author
@@ -51,7 +55,7 @@ An input message (prompt) consisting of multiple parts (tokens) and an output me
 ### Presentation title slide
 
 <p align="center">
-    <img src="promo/example-slide.jpg" width="300">
+    <img src="promo/example-slide.jpg" width="420">
 </p>
 
 Please, share your own examples of using this logo (slides, articles, swag. etc.) - just send a pull request to this repo. Also, use **#promptengineeringlogo** hashtag on [Twitter](https://twitter.com/search?q=promptengineeringlogo&src=typed_query&f=top), [LinkedIn](https://www.linkedin.com/search/results/all/?keywords=promptengineeringlogo&origin=GLOBAL_SEARCH_HEADER&sid=Iwa) and other social media.
