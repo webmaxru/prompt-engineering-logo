@@ -33,6 +33,10 @@ An input message (prompt) consisting of multiple parts (tokens) and an output me
 
 - Monochrome [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/prompt-engineering-logo%20(mono).svg) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/prompt-engineering-logo%20(mono).svg)
 
+- Sticker "Prompt Engineering" [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/sticker_prompt-engineering.svg) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/sticker_prompt-engineering.svg)
+
+- Sticker "I'm a Prompt Engineer" [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/sticker_i-am-a-prompt-engineer.svg) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/sticker_i-am-a-prompt-engineer.svg)
+
 ### High resolution PNGs with transparent background
 
 - Default [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/prompt-engineering-logo.png) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/prompt-engineering-logo.png)
@@ -45,12 +49,22 @@ An input message (prompt) consisting of multiple parts (tokens) and an output me
 
 - Monochrome [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/prompt-engineering-logo%20(mono).png) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/prompt-engineering-logo%20(mono).png)
 
+- Sticker "Prompt Engineering" [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/sticker_prompt-engineering.png) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/sticker_prompt-engineering.png)
+
+- Sticker "I'm a Prompt Engineer" [view](https://github.com/webmaxru/prompt-engineering-logo/blob/main/assets/sticker_i-am-a-prompt-engineer.png) | [download](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/sticker_i-am-a-prompt-engineer.png)
+
 ### Source
 
 - [AI, all variants](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/src/logo.ai)
 - [PDF, all variants](https://github.com/webmaxru/prompt-engineering-logo/raw/main/assets/src/logo.pdf)
 
 ## Usage examples
+
+### Stickers
+
+<p align="center">
+    <img src="promo/stickers.png" width="420">
+</p>
 
 ### Presentation title slide
 
