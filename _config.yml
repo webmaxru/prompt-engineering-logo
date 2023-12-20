@@ -50,6 +50,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 plugins:
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 
 author:
   name   : "Maxim Salnikov"
@@ -76,6 +77,12 @@ footer:
 category_archive:
   type: liquid
   path: /categories/
+  
 tag_archive:
   type: liquid
   path: /tags/
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true 
