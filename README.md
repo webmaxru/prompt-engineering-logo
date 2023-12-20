@@ -1,4 +1,4 @@
-# Prompt Engineering Logo
+# Logotype for the Prompt Engineering
 
 <p align="center">
     <img src="assets/prompt-engineering-logo.png" width="420">
