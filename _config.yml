@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Prompt Engineering Logo
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Logo for the Prompt Engineering as a new emerging discipline. It's in the public domain, so anyone can legally use it without permission.
+twitter_username: webmaxru
+github_username: webmaxru
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,34 +56,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Maxim Salnikov"
+  avatar : "https://avatars.githubusercontent.com/u/1560278?v=4"
+  bio    : "Maxim Salnikov is a tech and cloud community enthusiast based in Oslo. He is an experienced web developer who has been creating applications since the end of the last century and shares his extensive knowledge of web platform, cloud computing, and AI by speaking and providing training at developer events around the world. During the day, Maxim helps to improve cloud and AI skills in European companies by leading the developer productivity business at Microsoft. In the evenings, he can be found organizing Norway's largest web and cloud development meetups."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/webmaxru/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/webmaxru/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://logo.promptengineering.rocks/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/webmaxru/prompt-engineering-logo/"
 
 defaults:
   # _posts
