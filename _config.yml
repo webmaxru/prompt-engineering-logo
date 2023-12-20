@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Logo for the Prompt Engineering as a new emerging discipline. It's in the public domain, so anyone can legally use it without permission.
 twitter_username: webmaxru
 github_username: webmaxru
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: false
 
 # Build settings
@@ -78,17 +78,6 @@ footer:
       url: "https://github.com/webmaxru/prompt-engineering-logo/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -96,6 +85,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        - title: "Title"
+          image: http://placehold.it/350x250
+          image_alt: "image"
+          text: "Some text here."
+        - title: "Another Title"
+          text: "More text here."
 
 category_archive:
   type: liquid
