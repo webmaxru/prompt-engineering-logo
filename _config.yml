@@ -20,6 +20,7 @@ email: salnikov@gmail.com
 repository: webmaxru/prompt-engineering-logo
 url: https://logo.promptengineering.rocks
 baseurl: /
+logo: /assets/prompt-engineering-logo%20(black).png
 description: >- # this means to ignore newlines until "baseurl:"
   Logo for the Prompt Engineering as a new emerging discipline. It's in the public domain, so anyone can legally use it without permission.
 twitter_username: webmaxru
